@@ -17,7 +17,6 @@ Here are some of the technologies I frequently work with:
 
 I stay updated with the latest trends and continually explore new tools and frameworks to enhance my skills and deliver the best solutions.
 
-<br />
 
 ### Languages and Tools:
 
