@@ -22,11 +22,12 @@ I stay updated with the latest trends and continually explore new tools and fram
 
 <div>
   <div>
+    <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />&nbsp;
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" />&nbsp;
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />&nbsp;
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />&nbsp;
-    <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />&nbsp;
+    <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />&nbsp;
   </div>
   <div>
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />&nbsp;
@@ -54,6 +55,7 @@ I stay updated with the latest trends and continually explore new tools and fram
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" />&nbsp;
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" />&nbsp;
     <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />&nbsp;
+    <img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />&nbsp;
   </div>
 </div>
 
