@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Arthur
 
-## Senior Front-End Engineer | Tech Enthusiast | Problem Solver
+## Senior Full-Stack Engineer | Tech Enthusiast | Problem Solver
 
-Welcome to my GitHub profile! I'm a senior front-end engineer with a passion for creating high-quality web applications. With 6+ years of industry experience, I've worked on a wide range of projects and acquired expertise in front-end development, UI/UX design, and performance optimization. I thrive in collaborative environments and enjoy tackling complex challenges.
+Welcome to my GitHub profile! I'm a senior fullstack engineer with a passion for creating high-quality web applications. With 6+ years of industry experience, I've worked on a wide range of projects and acquired expertise in front-end development, UI/UX design, and performance optimization. I thrive in collaborative environments and enjoy tackling complex challenges.
 
 ## 🔧 Tech Stack
 
 Here are some of the technologies I frequently work with:
 
-- Languages: JavaScript, HTML, CSS
-- Frameworks/Libraries: React, Angular, Vue.js
+- Languages: Node.js, JavaScript, HTML, CSS
+- Frameworks/Libraries: Express.js, Nest.js, React, Angular, Vue.js
 - Tools/Build Systems: Webpack, Babel, Gulp, Vite
 - Testing: Jest, Enzyme, Cypress
 - Version Control: Git, GitHub
